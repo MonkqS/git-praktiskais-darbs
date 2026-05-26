@@ -1,3 +1,3 @@
 function showMessage() {
-    alert("Git praktiskais darbs!");
+    alert("Joka pec alfabets");
 }
